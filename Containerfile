@@ -1,4 +1,4 @@
-FROM nginx:latest
+FROM docker.io/nginx:latest
 
 RUN apt update && \
   apt install -y git && \
