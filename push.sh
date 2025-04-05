@@ -1,1 +1,1 @@
-podman push ghcr.io/geraveoyomama/sconce:latest
+podman push ghcr.io/geraveoyomama/nurds-container:latest
